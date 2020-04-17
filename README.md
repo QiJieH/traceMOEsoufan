@@ -27,9 +27,9 @@
     
 <br>
   
-#### 另一个搜图插件
+#### 开发者的另一个搜图插件
 >[sauceNAO搜图](https://github.com/QiJieH/sauceNAOsoutu) 
-<img src="https://github.com/QiJieH/sauceNAOsoutu/raw/master/READMEIMG/IMG_20200415_181318.jpg" width="300" /><img src="https://github.com/QiJieH/sauceNAOsoutu/raw/master/READMEIMG/IMG_20200415_181414.jpg" width="350" />
+<img src="https://github.com/QiJieH/sauceNAOsoutu/raw/master/READMEIMG/IMG_20200415_181318.jpg" width="300" /><img src="https://github.com/QiJieH/sauceNAOsoutu/raw/master/READMEIMG/IMG_20200415_181414.jpg" width="300" />
 
  
 
