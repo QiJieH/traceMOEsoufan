@@ -3,7 +3,7 @@
     "ret": 1,
     "apiver": 9,
     "name": "traceMOE搜番",
-    "version": "2.0.0",
+    "version": "2.0.1",
     "version_id": 2,
     "author": "QiJieH",
     "description": "调用trace.moe API进行二次元番剧图片检索",
