@@ -35,7 +35,7 @@ if (CQ_CAN_BUILD_STD_MODE)
     target_link_libraries(app ZLIB::ZLIB)
     target_link_libraries(app nlohmann_json nlohmann_json::nlohmann_json)
     #target_link_libraries(app unofficial::nana::nana)
-    target_link_libraries(app nana_v142_Debug_MDd_x86)
+    target_link_libraries(app nana_v142_Release_MD_x86)
     cq_install_std_app("D:/QQBot/CoolQ")
 
     
