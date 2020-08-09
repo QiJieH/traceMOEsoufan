@@ -1,3 +1,5 @@
+> 由于 CoolQ 已经停止维护，本项目已不再维护。
+
 ## sauceNAOsoutu
 基于[CoolQ](https://cqp.cc/t/23253)的搜番QQ机器人插件，调用[trace.moe](https://trace.moe/)的API接口，使用[richardchien](https://github.com/richardchien)提供的[Cool C++ SDK](https://cqcppsdk.cqp.moe/guide/)开发  
 
